@@ -1,0 +1,85 @@
+PODS:
+  - Alamofire (5.0.0)
+  - DynamicColor (4.2.0)
+  - GRDB.swift (4.6.2):
+    - GRDB.swift/standard (= 4.6.2)
+  - GRDB.swift/standard (4.6.2)
+  - IQKeyboardManagerSwift (6.5.4)
+  - Kingfisher (5.12.0):
+    - Kingfisher/Core (= 5.12.0)
+  - Kingfisher/Core (5.12.0)
+  - KMPlaceholderTextView (1.4.0)
+  - LeanCloud (17.3.2):
+    - LeanCloud/RTM (= 17.3.2)
+  - LeanCloud/Foundation (17.3.2):
+    - Alamofire (~> 5.0-rc.3)
+  - LeanCloud/RTM (17.3.2):
+    - GRDB.swift (~> 4.4)
+    - LeanCloud/Foundation (= 17.3.2)
+    - Starscream (~> 3.1)
+    - SwiftProtobuf (~> 1.7.0)
+  - MBProgressHUD (1.2.0)
+  - QCloudCore/WithoutMTA (5.6.9)
+  - QCloudCOSXML/Transfer (5.6.9):
+    - QCloudCore/WithoutMTA
+  - SKPhotoBrowser (6.1.0)
+  - SnapKit (5.0.0)
+  - Starscream (3.1.1)
+  - SwiftDate (6.1.0)
+  - SwiftProtobuf (1.7.0)
+  - TZImagePickerController (3.3.1)
+
+DEPENDENCIES:
+  - Alamofire (= 5.0)
+  - DynamicColor (~> 4.2.0)
+  - IQKeyboardManagerSwift
+  - Kingfisher
+  - KMPlaceholderTextView (~> 1.4.0)
+  - LeanCloud
+  - MBProgressHUD
+  - QCloudCOSXML/Transfer
+  - SKPhotoBrowser
+  - SnapKit (= 5.0.0)
+  - SwiftDate
+  - TZImagePickerController
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - DynamicColor
+    - GRDB.swift
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - KMPlaceholderTextView
+    - LeanCloud
+    - MBProgressHUD
+    - QCloudCore
+    - QCloudCOSXML
+    - SKPhotoBrowser
+    - SnapKit
+    - Starscream
+    - SwiftDate
+    - SwiftProtobuf
+    - TZImagePickerController
+
+SPEC CHECKSUMS:
+  Alamofire: 58ff2bfb8daaacaa233d5c36e37b10a5248f59b1
+  DynamicColor: c475f66bda1cabf602f2c54ac1171c0c07148a5a
+  GRDB.swift: 258520e10b49ff55307cbb0bec701af0742ae621
+  IQKeyboardManagerSwift: 2dde0fc70110e8eac7ccce2a46fdbec6a850b414
+  Kingfisher: dc6e0f53bb5b12c3e75bedb0e01bbd7a640eea69
+  KMPlaceholderTextView: 2206c3df39979e9396e2d96fa9f427a8951121b0
+  LeanCloud: c0526c61ea50c463bc05c6dc66a2a8ea077d18bf
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  QCloudCore: d2006c992ca4a6bf967ecf13aad007f2edbeb557
+  QCloudCOSXML: 74e6dda8babc752fdb47478ce64cd867844c9f28
+  SKPhotoBrowser: 343de95d89dc7913763c5dda243cc6e606e4a168
+  SnapKit: fd22d10eb9aff484d79a8724eab922c1ddf89bcf
+  Starscream: 4bb2f9942274833f7b4d296a55504dcfc7edb7b0
+  SwiftDate: fa2bb3962056bb44047b4b85a30044e5eae30b03
+  SwiftProtobuf: 4fd9645e69b72cbae6ec8da5be0cdd20ca6565dd
+  TZImagePickerController: 99f03b64145a8c92c55b9b1b931410967d9be4cb
+
+PODFILE CHECKSUM: 4ace148953d324ab6a56bc3a7ec9bdd3fe892206
+
+COCOAPODS: 1.7.4
